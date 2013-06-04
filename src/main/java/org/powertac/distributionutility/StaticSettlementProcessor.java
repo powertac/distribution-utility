@@ -85,7 +85,7 @@ public class StaticSettlementProcessor extends SettlementProcessor
     // get curtailable usage for each order.
     for (BOWrapper bo : candidates) {
       bo.availableCapacity =
-              capacityControlService.getCurtailableUsage(bo.balancingOrder);
+              capacityControlService.getMaxUpRegulation(bo.balancingOrder);
     }
 
     // insert dummy orders to represent available balancing power through
