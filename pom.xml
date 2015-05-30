@@ -10,7 +10,7 @@
   
   <artifactId>distribution-utility</artifactId>
   <name>Power TAC distribution utility</name>
-  <version>1.2.3</version>
+  <version>1.2.4-SNAPSHOT</version>
   <description>
     Balances supply and demand in the current timeslot
   </description>
