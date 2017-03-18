@@ -5,7 +5,7 @@
 
   <artifactId>distribution-utility</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.1</version>
+  <version>1.4.2-SNAPSHOT</version>
 
   <name>Power TAC distribution utility</name>
   <description>Models the regulated monopoly that owns and maintains the distribution infrastructure.</description>
@@ -33,7 +33,7 @@
     <connection>scm:git:git//github.com/powertac/distribution-utility.git</connection>
     <developerConnection>scm:git:git@github.com:powertac/distribution-utility.git</developerConnection>
     <url>https://github.com/powertac/distribution-utility/</url>
-    <tag>distribution-utility-1.4.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
