@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>distribution-utility</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.0-SNAPSHOT</version>
+  <version>1.4.1</version>
 
   <name>Power TAC distribution utility</name>
   <description>Models the regulated monopoly that owns and maintains the distribution infrastructure.</description>
@@ -35,6 +33,7 @@
     <connection>scm:git:git//github.com/powertac/distribution-utility.git</connection>
     <developerConnection>scm:git:git@github.com:powertac/distribution-utility.git</developerConnection>
     <url>https://github.com/powertac/distribution-utility/</url>
+    <tag>distribution-utility-1.4.1</tag>
   </scm>
 
 </project>
